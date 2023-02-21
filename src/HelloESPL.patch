@@ -1,0 +1,12 @@
+diff --git a/src/HelloESPL.c b/src/HelloESPL.c
+index c1bf2ca..90b6c32 100644
+--- a/src/HelloESPL.c
++++ b/src/HelloESPL.c
+@@ -2,5 +2,6 @@
+ int main() {
+    // printf() displays the string inside quotation
+    printf("Hello ESPL");
++   printf("This is a new print");
+    return 0;
+ }
+\ No newline at end of file
